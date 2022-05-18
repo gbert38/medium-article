@@ -24,6 +24,14 @@ body {
   font-size: 38px;
 }
 
+.banner {
+  background-image: url(https://source.unsplash.com/random/1000x500);
+  background-size: cover;
+  color: white;
+  padding: 120px 0;
+}
+
+
 h1, h2 {
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
